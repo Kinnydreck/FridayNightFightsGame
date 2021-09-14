@@ -1074,3 +1074,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-16.49.35:906][765]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
 [2021.09.14-16.49.44:447][744]LogSlate: Window 'Tutorials' being destroyed
 [2021.09.14-16.49.44:452][744]LogSlate: Window 'Tutorials' being destroyed
+[2021.09.14-16.59.28:222][736]LogSlate: Window 'New Level' being destroyed
+[2021.09.14-16.59.28:234][736]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.14-16.59.28:244][736]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-16.59.28:262][736]LightingResults: New page: Lighting Build
+[2021.09.14-16.59.28:263][736]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.09.14-16.59.28:268][736]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-16.59.28:270][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-16.59.28:271][736]MapCheck: New page: Map Check
+[2021.09.14-16.59.28:271][736]LightingResults: New page: Lighting Build
+[2021.09.14-16.59.28:278][736]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-16.59.28:295][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.09.14-16.59.28:321][736]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.14-16.59.28:324][736]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.09.14-16.59.28:325][736]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.14-16.59.28:407][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.14-16.59.28:416][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.14-16.59.28:428][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.14-16.59.28:428][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.359ms to complete.
+[2021.09.14-16.59.28:428][736]LogFileHelpers: Loading map 'Template_Default' took 0.195
