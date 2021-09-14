@@ -1093,3 +1093,812 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-16.59.28:428][736]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.09.14-16.59.28:428][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.359ms to complete.
 [2021.09.14-16.59.28:428][736]LogFileHelpers: Loading map 'Template_Default' took 0.195
+[2021.09.14-17.00.27:117][288]LogSlate: Took 0.010682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.14-17.00.27:151][288]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-17.00.37:971][520]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.09.14-17.00.41:444][927]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-17.00.41:451][927]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-17.00.43:446][164]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.09.14-17.00.43:447][164]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-17.00.50:443][979]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2021.09.14-17.01.05:984][865]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Kendrick L/Downloads/Stool.fbx)
+[2021.09.14-17.01.06:036][865]LogFbx: Loading FBX Scene from ../../../../../../Users/Kendrick L/Downloads/Stool.fbx
+[2021.09.14-17.01.06:055][865]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.01.08:737][865]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-17.01.08:775][865]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.09.14-17.01.08:824][865]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.01.08:833][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.09.14-17.01.08:833][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.14-17.01.08:833][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.14-17.01.08:833][865]LogStaticMesh: Building static mesh Stool_pCylinder1...
+[2021.09.14-17.01.08:843][865]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Stool_pCylinder1.Stool_pCylinder1
+[2021.09.14-17.01.08:852][865]LogFbx: Display: Triangulating static mesh pCylinder2
+[2021.09.14-17.01.08:855][865]LogStaticMesh: Building static mesh Stool_pCylinder2...
+[2021.09.14-17.01.08:857][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder2.Stool_pCylinder2
+[2021.09.14-17.01.08:863][865]LogFbx: Display: Triangulating static mesh pCylinder3
+[2021.09.14-17.01.08:865][865]LogStaticMesh: Building static mesh Stool_pCylinder3...
+[2021.09.14-17.01.08:868][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder3.Stool_pCylinder3
+[2021.09.14-17.01.08:871][865]LogFbx: Display: Triangulating static mesh pCylinder4
+[2021.09.14-17.01.08:874][865]LogStaticMesh: Building static mesh Stool_pCylinder4...
+[2021.09.14-17.01.08:877][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder4.Stool_pCylinder4
+[2021.09.14-17.01.08:880][865]LogFbx: Display: Triangulating static mesh pCylinder5
+[2021.09.14-17.01.08:882][865]LogStaticMesh: Building static mesh Stool_pCylinder5...
+[2021.09.14-17.01.08:885][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder5.Stool_pCylinder5
+[2021.09.14-17.01.08:888][865]LogFbx: Display: Triangulating static mesh pCylinder6
+[2021.09.14-17.01.08:890][865]LogStaticMesh: Building static mesh Stool_pCylinder6...
+[2021.09.14-17.01.08:894][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder6.Stool_pCylinder6
+[2021.09.14-17.01.08:897][865]LogFbx: Display: Triangulating static mesh pCylinder7
+[2021.09.14-17.01.08:900][865]LogStaticMesh: Building static mesh Stool_pCylinder7...
+[2021.09.14-17.01.08:903][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder7.Stool_pCylinder7
+[2021.09.14-17.01.08:907][865]LogFbx: Display: Triangulating static mesh pCylinder8
+[2021.09.14-17.01.08:909][865]LogStaticMesh: Building static mesh Stool_pCylinder8...
+[2021.09.14-17.01.08:912][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder8.Stool_pCylinder8
+[2021.09.14-17.01.08:915][865]LogFbx: Display: Triangulating static mesh pCylinder9
+[2021.09.14-17.01.08:918][865]LogStaticMesh: Building static mesh Stool_pCylinder9...
+[2021.09.14-17.01.08:921][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stool_pCylinder9.Stool_pCylinder9
+[2021.09.14-17.01.08:993][865]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.01.09:031][865]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Kendrick L/Downloads/Jumbotron.fbx)
+[2021.09.14-17.01.09:064][865]LogFbx: Loading FBX Scene from ../../../../../../Users/Kendrick L/Downloads/Jumbotron.fbx
+[2021.09.14-17.01.09:074][865]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.01.09:075][865]LogFbx: Display: Triangulating static mesh pCube1
+[2021.09.14-17.01.09:076][865]LogStaticMesh: Building static mesh Jumbotron_pCube1...
+[2021.09.14-17.01.09:077][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.01.09:081][865]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2021.09.14-17.01.09:089][865]LogFbx: Display: Triangulating static mesh pCube2
+[2021.09.14-17.01.09:090][865]LogStaticMesh: Building static mesh Jumbotron_pCube2...
+[2021.09.14-17.01.09:091][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.01.09:095][865]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2021.09.14-17.01.09:104][865]LogFbx: Display: Triangulating static mesh pCube3
+[2021.09.14-17.01.09:106][865]LogStaticMesh: Building static mesh Jumbotron_pCube3...
+[2021.09.14-17.01.09:106][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.01.09:109][865]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.01.09:112][865]LogStaticMesh: Building static mesh Jumbotron_pCylinder1...
+[2021.09.14-17.01.09:115][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.01.09:117][865]LogFbx: Display: Triangulating static mesh pCylinder2
+[2021.09.14-17.01.09:120][865]LogStaticMesh: Building static mesh Jumbotron_pCylinder2...
+[2021.09.14-17.01.09:123][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.01.09:127][865]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.09.14-17.01.09:136][865]LogFbx: Display: Triangulating static mesh pCube4
+[2021.09.14-17.01.09:137][865]LogStaticMesh: Building static mesh Jumbotron_pCube4...
+[2021.09.14-17.01.09:138][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.01.09:141][865]LogFbx: Display: Triangulating static mesh pCube5
+[2021.09.14-17.01.09:142][865]LogStaticMesh: Building static mesh Jumbotron_pCube5...
+[2021.09.14-17.01.09:143][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.01.09:200][865]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.01.09:203][865]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Kendrick L/Downloads/Stadium 2.fbx)
+[2021.09.14-17.01.09:214][865]LogFbx: Loading FBX Scene from ../../../../../../Users/Kendrick L/Downloads/Stadium 2.fbx
+[2021.09.14-17.01.09:227][865]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.01.09:229][865]LogFbx: Display: Triangulating static mesh pCube3
+[2021.09.14-17.01.09:230][865]LogStaticMesh: Building static mesh Stadium_2_pCube3...
+[2021.09.14-17.01.09:231][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.01.09:234][865]LogFbx: Display: Triangulating static mesh pCube18
+[2021.09.14-17.01.09:297][865]LogStaticMesh: Building static mesh Stadium_2_pCube18...
+[2021.09.14-17.01.09:379][865]LogStaticMesh: Built static mesh [0.08s] /Game/ThirdPersonBP/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.01.09:397][865]LogFbx: Display: Triangulating static mesh pCone1
+[2021.09.14-17.01.09:407][865]LogStaticMesh: Building static mesh Stadium_2_pCone1...
+[2021.09.14-17.01.09:410][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.01.09:414][865]LogFbx: Display: Triangulating static mesh pPlane1
+[2021.09.14-17.01.09:423][865]LogStaticMesh: Building static mesh Stadium_2_pPlane1...
+[2021.09.14-17.01.09:426][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.01.09:428][865]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.01.09:429][865]LogStaticMesh: Building static mesh Stadium_2_pCylinder1...
+[2021.09.14-17.01.09:432][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.01.09:460][865]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.01.09:567][865]LogSlate: Took 0.009842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.14-17.01.11:838][ 27]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.14-17.01.14:810][317]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-17.01.14:814][317]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-17.01.16:015][414]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.14-17.01.20:753][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.14-17.01.27:258][334]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.09.14-17.01.28:807][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.14-17.01.29:044][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.09.14-17.01.29:428][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCube1.Jumbotron_pCube1' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCube1.PackageMetaData'
+[2021.09.14-17.01.29:430][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCube2.Jumbotron_pCube2' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCube2.PackageMetaData'
+[2021.09.14-17.01.29:432][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCube3.Jumbotron_pCube3' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCube3.PackageMetaData'
+[2021.09.14-17.01.29:433][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCube4.Jumbotron_pCube4' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCube4.PackageMetaData'
+[2021.09.14-17.01.29:434][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCube5.Jumbotron_pCube5' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCube5.PackageMetaData'
+[2021.09.14-17.01.29:435][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCylinder1.PackageMetaData'
+[2021.09.14-17.01.29:436][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2' ref from Metadata '/Game/ThirdPersonBP/Jumbotron_pCylinder2.PackageMetaData'
+[2021.09.14-17.01.29:437][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stadium_2_pCone1.Stadium_2_pCone1' ref from Metadata '/Game/ThirdPersonBP/Stadium_2_pCone1.PackageMetaData'
+[2021.09.14-17.01.29:438][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stadium_2_pCube18.Stadium_2_pCube18' ref from Metadata '/Game/ThirdPersonBP/Stadium_2_pCube18.PackageMetaData'
+[2021.09.14-17.01.29:439][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stadium_2_pCube3.Stadium_2_pCube3' ref from Metadata '/Game/ThirdPersonBP/Stadium_2_pCube3.PackageMetaData'
+[2021.09.14-17.01.29:440][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1' ref from Metadata '/Game/ThirdPersonBP/Stadium_2_pCylinder1.PackageMetaData'
+[2021.09.14-17.01.29:441][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1' ref from Metadata '/Game/ThirdPersonBP/Stadium_2_pPlane1.PackageMetaData'
+[2021.09.14-17.01.29:442][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder1.Stool_pCylinder1' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder1.PackageMetaData'
+[2021.09.14-17.01.29:443][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder2.Stool_pCylinder2' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder2.PackageMetaData'
+[2021.09.14-17.01.29:443][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder3.Stool_pCylinder3' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder3.PackageMetaData'
+[2021.09.14-17.01.29:444][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder4.Stool_pCylinder4' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder4.PackageMetaData'
+[2021.09.14-17.01.29:445][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder5.Stool_pCylinder5' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder5.PackageMetaData'
+[2021.09.14-17.01.29:446][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder6.Stool_pCylinder6' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder6.PackageMetaData'
+[2021.09.14-17.01.29:447][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder7.Stool_pCylinder7' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder7.PackageMetaData'
+[2021.09.14-17.01.29:447][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder8.Stool_pCylinder8' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder8.PackageMetaData'
+[2021.09.14-17.01.29:448][547]LogMetaData: Removing '/Game/ThirdPersonBP/Assets/Stool_pCylinder9.Stool_pCylinder9' ref from Metadata '/Game/ThirdPersonBP/Stool_pCylinder9.PackageMetaData'
+[2021.09.14-17.01.29:516][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube1F5022CD64876724B079BA29D1D0D21EA.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube1.uasset'
+[2021.09.14-17.01.29:549][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube2F8731B5E436A320C3722E5BA4F2219B3.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube2.uasset'
+[2021.09.14-17.01.29:597][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube34CB812244B78236899CD32B398CA74F9.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube3.uasset'
+[2021.09.14-17.01.29:627][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube4036F0A3D49B4BCA72B4C0BB5403DAA7A.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube4.uasset'
+[2021.09.14-17.01.29:651][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube5ADBBAD8C4F849F634DAF8B86F57CAF85.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube5.uasset'
+[2021.09.14-17.01.29:677][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder13417EB894B5035A7EBE9AA9B8AE1409A.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCylinder1.uasset'
+[2021.09.14-17.01.29:706][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder2DEC1330F419FEABA27AE41A7328D8BC9.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCylinder2.uasset'
+[2021.09.14-17.01.29:749][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCone1447690D34B5CD3E64B8C30B02CD3F256.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCone1.uasset'
+[2021.09.14-17.01.29:775][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube18360E553D4D0A66216EAC91BFAAAFC169.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCube18.uasset'
+[2021.09.14-17.01.29:798][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube3167ED8BC4F87C3A28DCD85B7DE61F6E5.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCube3.uasset'
+[2021.09.14-17.01.29:819][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCylinder1B66C192445AB422B2A275B8CB595E4B7.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCylinder1.uasset'
+[2021.09.14-17.01.29:842][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pPlane1329708D641B23C8B78CFF8B6BAF29031.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pPlane1.uasset'
+[2021.09.14-17.01.29:868][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder1E8BFDFAF450CBC11289142869E691AE2.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder1.uasset'
+[2021.09.14-17.01.29:891][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder29DC0F41E4AB79A8A9D9B15812661D9BD.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder2.uasset'
+[2021.09.14-17.01.29:914][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder37CD8EF954DAA2E6BFD94EB9A171A5580.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder3.uasset'
+[2021.09.14-17.01.29:935][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder449809B8D4382B54DDA637284057914EB.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder4.uasset'
+[2021.09.14-17.01.29:958][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder58910E3364F4B229CB911E7857EF4D754.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder5.uasset'
+[2021.09.14-17.01.29:980][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder60EA663284DFAA578AB1FD2BD97028917.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder6.uasset'
+[2021.09.14-17.01.30:002][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder7EE79A81C4EF87D76A957F8B1BB42E2DB.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder7.uasset'
+[2021.09.14-17.01.30:028][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder8B24068F84726601FFE1CBDA54ABF0094.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder8.uasset'
+[2021.09.14-17.01.30:050][547]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder9D8872A814610C1636B1581ADEA63B993.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder9.uasset'
+[2021.09.14-17.01.30:205][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.09.14-17.01.30:214][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-17.01.30:219][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.01.30:226][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.09.14-17.01.30:243][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-17.01.30:251][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.09.14-17.01.30:258][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.09.14-17.01.30:264][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-17.01.30:270][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-17.01.30:278][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.09.14-17.01.30:284][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.14-17.01.30:291][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.01.30:297][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.09.14-17.01.30:304][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-17.01.30:311][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.14-17.01.30:317][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.01.30:324][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.01.30:330][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.01.30:336][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-17.01.30:369][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.01.30:377][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.14-17.01.30:395][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.09.14-17.01.30:401][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.01.30:439][547]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.01.30:439][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder9.Stool_pCylinder9
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder8.Stool_pCylinder8
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder7.Stool_pCylinder7
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder6.Stool_pCylinder6
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder5.Stool_pCylinder5
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder4.Stool_pCylinder4
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder3.Stool_pCylinder3
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder2.Stool_pCylinder2
+[2021.09.14-17.01.30:440][547]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder1.Stool_pCylinder1
+[2021.09.14-17.01.31:751][674]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.14-17.01.31:860][684]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.14-17.01.38:429][148]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-17.01.38:437][148]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-17.01.43:217][718]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.09.14-17.01.43:217][718]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-17.01.52:118][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/blinn1BD932BE147341657DF69AB8948D914B8.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Materials/blinn1.uasset'
+[2021.09.14-17.01.52:138][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/blinn2AFD5768844505AD36322BDBDE05435EE.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Materials/blinn2.uasset'
+[2021.09.14-17.01.52:157][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/lambert12E9070084A0AE9C28DC70D9DB4ECC04F.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Materials/lambert1.uasset'
+[2021.09.14-17.01.52:175][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/lambert2E801F2884A7C4DF93AFE4F960D9E8432.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Materials/lambert2.uasset'
+[2021.09.14-17.01.52:236][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.14-17.01.52:244][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-17.01.52:250][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.01.52:256][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.01.52:268][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.14-17.01.52:275][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.01.52:300][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube295BB6CA04D8BBEAA370C0BBAD452E52C.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube2.uasset'
+[2021.09.14-17.01.52:304][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube3EE346E8B41527F7B105C148F522B2CB3.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube3.uasset'
+[2021.09.14-17.01.52:308][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder93638E89045265860ED3002B63713D1A1.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder9.uasset'
+[2021.09.14-17.01.52:313][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder8A16214B843FE1B44D3777FA64EF59B92.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder8.uasset'
+[2021.09.14-17.01.52:317][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder700772E43485CBD8AD73DD6AACB3E17DE.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder7.uasset'
+[2021.09.14-17.01.52:321][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder62F955B1C44E87C11541A3EB87A13DD3B.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder6.uasset'
+[2021.09.14-17.01.52:325][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder595D8046C460AA86D4819E5952B6EAE2D.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder5.uasset'
+[2021.09.14-17.01.52:329][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder47F0A704A4E8C363DA1FE548533168A6A.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder4.uasset'
+[2021.09.14-17.01.52:333][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder30C6DA8E9441DD36AF0D1B2A8950987F8.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder3.uasset'
+[2021.09.14-17.01.52:337][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder2B1E209FF424577ED46379F857032B684.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder2.uasset'
+[2021.09.14-17.01.52:341][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool_pCylinder193E4E4EC44186D0EAB3A89ABFBBD03A8.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stool_pCylinder1.uasset'
+[2021.09.14-17.01.52:345][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pPlane1601ADB98498E36B15A3874883E0C7DDF.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pPlane1.uasset'
+[2021.09.14-17.01.52:349][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCylinder1433790604F606F0A826AE5B271CD8701.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCylinder1.uasset'
+[2021.09.14-17.01.52:353][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube3C851F9744DCA89A3F6B516A92C9EA540.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCube3.uasset'
+[2021.09.14-17.01.52:357][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCone1D56DF6754C41B54591F81A8DB2605EC1.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCone1.uasset'
+[2021.09.14-17.01.52:361][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder2856709864B1FE54995B6D2AB7A714900.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCylinder2.uasset'
+[2021.09.14-17.01.52:365][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder14A17E9A54E2E7C45B5F855A6DC411A22.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCylinder1.uasset'
+[2021.09.14-17.01.52:369][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube13CC73CAD4311B403C6BB86A6FD8CF9B7.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube1.uasset'
+[2021.09.14-17.01.52:378][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube185540EADF4CBB32DB06512CAF09360117.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Stadium_2_pCube18.uasset'
+[2021.09.14-17.01.52:381][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube5425F9F1340C2731525755FBC07FB4CC6.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube5.uasset'
+[2021.09.14-17.01.52:385][755]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube4F0EDD19648676895D27678AAE0BB7503.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/ThirdPersonBP/Assets/Jumbotron_pCube4.uasset'
+[2021.09.14-17.01.52:426][755]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.01.52:426][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Materials/lambert2.lambert2
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Materials/blinn2.blinn2
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Materials/blinn1.blinn1
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder9.Stool_pCylinder9
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder8.Stool_pCylinder8
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder7.Stool_pCylinder7
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder6.Stool_pCylinder6
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder5.Stool_pCylinder5
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder4.Stool_pCylinder4
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder3.Stool_pCylinder3
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder2.Stool_pCylinder2
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Materials/lambert1.lambert1
+[2021.09.14-17.01.52:427][755]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Assets/Stool_pCylinder1.Stool_pCylinder1
+[2021.09.14-17.02.12:366][626]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.02.13:236][626]LogSlate: Took 0.005449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.14-17.02.18:581][177]LogSlate: Window 'Stadium_2_pPlane1' being destroyed
+[2021.09.14-17.02.18:588][177]LogSlate: Window 'Stadium_2_pPlane1' being destroyed
+[2021.09.14-17.02.18:591][177]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.02.18:591][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.02.19:732][267]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.02.23:003][520]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.02.29:349][ 33]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.02.31:831][137]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.02.35:148][331]LogSlate: Window 'Stadium_2_pCylinder1' being destroyed
+[2021.09.14-17.02.35:153][331]LogSlate: Window 'Stadium_2_pCylinder1' being destroyed
+[2021.09.14-17.02.35:155][331]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.02.35:156][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.02.35:192][331]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.02.35:192][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.02.35:231][331]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.02.35:231][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.02.35:269][331]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.02.35:269][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.02.39:508][658]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.02.39:764][683]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.02.40:254][739]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.03.08:790][108]Cmd: TRANSACTION UNDO
+[2021.09.14-17.03.08:790][108]LogEditorTransaction: Undo Move Actors
+[2021.09.14-17.03.09:400][136]Cmd: TRANSACTION UNDO
+[2021.09.14-17.03.09:401][136]LogEditorTransaction: Undo Move Actors
+[2021.09.14-17.03.09:759][177]Cmd: TRANSACTION UNDO
+[2021.09.14-17.03.09:759][177]LogEditorTransaction: Undo Move Actors
+[2021.09.14-17.03.10:624][279]Cmd: TRANSACTION UNDO
+[2021.09.14-17.03.10:624][279]LogEditorTransaction: Undo Create Actors
+[2021.09.14-17.03.21:237][154]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.03.21:238][154]LogActorFactory: Actor Factory created Jumbotron_pCube2
+[2021.09.14-17.03.21:238][154]LogActorFactory: Actor Factory created Jumbotron_pCube3
+[2021.09.14-17.03.21:239][154]LogActorFactory: Actor Factory created Jumbotron_pCube4
+[2021.09.14-17.03.21:239][154]LogActorFactory: Actor Factory created Jumbotron_pCube5
+[2021.09.14-17.03.21:240][154]LogActorFactory: Actor Factory created Jumbotron_pCylinder1
+[2021.09.14-17.03.21:240][154]LogActorFactory: Actor Factory created Jumbotron_pCylinder2
+[2021.09.14-17.03.22:150][256]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.03.22:165][256]LogActorFactory: Actor Factory created Jumbotron_pCube2
+[2021.09.14-17.03.22:180][256]LogActorFactory: Actor Factory created Jumbotron_pCube3
+[2021.09.14-17.03.22:196][256]LogActorFactory: Actor Factory created Jumbotron_pCube4
+[2021.09.14-17.03.22:211][256]LogActorFactory: Actor Factory created Jumbotron_pCube5
+[2021.09.14-17.03.22:225][256]LogActorFactory: Actor Factory created Jumbotron_pCylinder1
+[2021.09.14-17.03.22:240][256]LogActorFactory: Actor Factory created Jumbotron_pCylinder2
+[2021.09.14-17.04.33:785][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.04.53:416][345]EditorErrors: New page: Actor attachment
+[2021.09.14-17.04.55:177][543]EditorErrors: New page: Actor attachment
+[2021.09.14-17.04.56:513][690]EditorErrors: New page: Actor attachment
+[2021.09.14-17.04.59:513][ 34]EditorErrors: New page: Actor attachment
+[2021.09.14-17.05.01:987][320]EditorErrors: New page: Actor attachment
+[2021.09.14-17.05.08:714][ 95]EditorErrors: New page: Actor attachment
+[2021.09.14-17.05.13:425][645]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.13:425][645]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.13:656][651]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.13:656][651]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.13:839][656]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.13:839][656]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.13:999][663]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.13:999][663]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.14:158][678]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.14:158][678]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.14:358][701]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.14:358][701]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.14:565][721]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.14:565][721]LogEditorTransaction: Undo Detach actors
+[2021.09.14-17.05.14:976][768]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.14:976][768]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.15:177][791]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.15:177][791]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.15:339][806]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.15:339][806]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.15:516][826]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.15:516][826]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.15:693][841]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.15:693][841]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.15:884][861]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.15:884][861]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.16:057][876]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.16:057][876]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.16:526][928]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.16:526][928]LogEditorTransaction: Undo Attach actors
+[2021.09.14-17.05.17:683][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.05.25:205][909]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.25:205][909]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.25:405][914]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.25:405][914]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.25:541][917]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.25:541][917]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.25:740][922]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.25:741][922]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.25:873][935]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.25:873][935]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:027][949]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:027][949]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:188][964]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:188][964]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:339][978]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:339][978]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:500][993]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:500][993]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:626][  4]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:626][  4]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:786][ 19]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:786][ 19]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.26:938][ 33]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.26:938][ 33]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.27:150][ 54]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.27:150][ 54]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.14-17.05.27:318][ 70]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.27:318][ 70]LogEditorTransaction: Undo Move Actors
+[2021.09.14-17.05.27:492][ 89]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.27:492][ 89]LogEditorTransaction: Undo Set Scale
+[2021.09.14-17.05.27:657][106]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.27:657][106]LogEditorTransaction: Undo Set Scale
+[2021.09.14-17.05.27:822][125]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.27:822][125]LogEditorTransaction: Undo Set Scale
+[2021.09.14-17.05.28:003][146]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.28:004][146]LogEditorTransaction: Undo Move Actors
+[2021.09.14-17.05.28:166][164]Cmd: TRANSACTION UNDO
+[2021.09.14-17.05.28:166][164]LogEditorTransaction: Undo Create Actors
+[2021.09.14-17.05.36:310][ 19]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.05.36:310][ 19]LogActorFactory: Actor Factory created Jumbotron_pCube2
+[2021.09.14-17.05.36:311][ 19]LogActorFactory: Actor Factory created Jumbotron_pCube3
+[2021.09.14-17.05.36:311][ 19]LogActorFactory: Actor Factory created Jumbotron_pCube4
+[2021.09.14-17.05.36:311][ 19]LogActorFactory: Actor Factory created Jumbotron_pCube5
+[2021.09.14-17.05.36:312][ 19]LogActorFactory: Actor Factory created Jumbotron_pCylinder1
+[2021.09.14-17.05.36:312][ 19]LogActorFactory: Actor Factory created Jumbotron_pCylinder2
+[2021.09.14-17.05.36:810][ 77]LogActorFactory: Actor Factory created Jumbotron_pCube1
+[2021.09.14-17.05.36:827][ 77]LogActorFactory: Actor Factory created Jumbotron_pCube2
+[2021.09.14-17.05.36:842][ 77]LogActorFactory: Actor Factory created Jumbotron_pCube3
+[2021.09.14-17.05.36:858][ 77]LogActorFactory: Actor Factory created Jumbotron_pCube4
+[2021.09.14-17.05.36:874][ 77]LogActorFactory: Actor Factory created Jumbotron_pCube5
+[2021.09.14-17.05.36:889][ 77]LogActorFactory: Actor Factory created Jumbotron_pCylinder1
+[2021.09.14-17.05.36:904][ 77]LogActorFactory: Actor Factory created Jumbotron_pCylinder2
+[2021.09.14-17.05.45:473][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.05.45:773][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.05.46:058][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.05.46:389][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.05.46:721][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.05.47:039][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.05.47:356][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.05.54:234][527]LogSlate: Window 'Jumbotron_pCylinder1' being destroyed
+[2021.09.14-17.05.54:241][527]LogSlate: Window 'Jumbotron_pCylinder1' being destroyed
+[2021.09.14-17.05.54:244][527]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:244][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:281][527]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:281][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:319][527]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:319][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:356][527]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:356][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:393][527]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:393][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:429][527]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:429][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.05.54:461][527]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-17.05.54:461][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-17.06.30:608][ 61]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.09.14-17.06.30:658][ 61]LogStaticMesh: Building static mesh SM_MERGED_Jumbotron_pCylinder2_54...
+[2021.09.14-17.06.30:687][ 61]LogStaticMesh: Built static mesh [0.03s] /Game/SM_MERGED_Jumbotron_pCylinder2_54.SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.06.34:986][324]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.09.14-17.06.36:976][549]LogSlate: Window 'Merge Actors' being destroyed
+[2021.09.14-17.06.36:982][549]LogSlate: Window 'Merge Actors' being destroyed
+[2021.09.14-17.06.38:013][672]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.06.39:032][778]LogActorFactory: Actor Factory created SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.06.39:495][832]LogActorFactory: Actor Factory created SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.06.49:750][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jumbotron_pCube4)
+[2021.09.14-17.07.00:961][312]Cmd: DELETE
+[2021.09.14-17.07.00:976][312]Cmd: ACTOR DELETE
+[2021.09.14-17.07.00:993][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:993][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:993][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:994][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:994][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:994][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.00:994][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-17.07.01:018][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.09.14-17.07.01:026][312]LogEditorActor: Deleted 7 Actors (0.037 secs)
+[2021.09.14-17.07.03:135][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Jumbotron_pCylinder2_54)
+[2021.09.14-17.07.23:005][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.14-17.07.43:748][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Jumbotron_pCylinder2_54)
+[2021.09.14-17.08.23:717][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.14-17.08.38:706][943]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.09.15:782][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.14-17.09.17:942][209]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-17.09.17:960][209]LogUObjectGlobals: Force Deleting 21 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+	Asset Name: /Game/ThirdPersonBP/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+	Asset Name: /Game/ThirdPersonBP/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+	Asset Name: /Game/ThirdPersonBP/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+	Asset Name: /Game/ThirdPersonBP/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+	Asset Name: /Game/ThirdPersonBP/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+	Asset Name: /Game/ThirdPersonBP/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+	Asset Name: /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+	Asset Name: /Game/ThirdPersonBP/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+	Asset Name: /Game/ThirdPersonBP/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.09.18:549][209]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.09.14-17.09.19:666][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.14-17.09.19:674][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:680][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.09.19:686][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:692][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:699][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.19:705][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:711][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:717][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.09.14-17.09.19:722][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:729][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.19:734][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:740][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:746][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:752][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:758][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-17.09.19:764][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.19:770][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.19:776][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.19:781][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.19:787][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-17.09.19:794][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.14-17.09.19:799][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.28:020][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.30:778][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-17.09.31:383][ 99]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Materials/lambert2.lambert2
+	Asset Name: /Game/ThirdPersonBP/Materials/blinn2.blinn2
+	Asset Name: /Game/ThirdPersonBP/Materials/blinn1.blinn1
+	Asset Name: /Game/ThirdPersonBP/Materials/lambert1.lambert1
+[2021.09.14-17.09.31:753][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.09.14-17.09.31:759][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.31:765][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.31:771][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.31:778][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.14-17.09.31:783][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.09.36:970][688]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-17.09.36:980][688]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-17.09.40:125][  0]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2021.09.14-17.09.40:126][  0]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-17.09.42:592][285]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-17.09.42:613][285]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-17.09.45:809][589]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.09.14-17.09.45:809][589]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-17.09.50:523][102]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/SM_MERGED_Jumbotron_pCylinder2_50D8B5D3B499C3952A6EB5D9794A613A0.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/SM_MERGED_Jumbotron_pCylinder2_54.uasset'
+[2021.09.14-17.09.50:608][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.14-17.09.50:625][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.14-17.09.50:631][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.09.50:657][102]AssetCheck: New page: Asset Save: SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.09.50:657][102]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_MERGED_Jumbotron_pCylinder2_54.SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.09.59:268][481]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kendrick L\Downloads\Jumbotron.fbx)
+[2021.09.14-17.09.59:277][481]LogFbx: Loading FBX Scene from C:\Users\Kendrick L\Downloads\Jumbotron.fbx
+[2021.09.14-17.09.59:286][481]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.10.02:086][481]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-17.10.02:198][481]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.09.14-17.10.02:206][481]LogFbx: Display: Triangulating static mesh pCube1
+[2021.09.14-17.10.02:208][481]LogStaticMesh: Building static mesh Jumbotron_pCube1...
+[2021.09.14-17.10.02:208][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.10.02:213][481]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2021.09.14-17.10.02:224][481]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.09.14-17.10.02:224][481]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.14-17.10.02:224][481]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.14-17.10.02:225][481]LogFbx: Display: Triangulating static mesh pCube2
+[2021.09.14-17.10.02:226][481]LogStaticMesh: Building static mesh Jumbotron_pCube2...
+[2021.09.14-17.10.02:228][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.10.02:234][481]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2021.09.14-17.10.02:263][481]LogFbx: Display: Triangulating static mesh pCube3
+[2021.09.14-17.10.02:265][481]LogStaticMesh: Building static mesh Jumbotron_pCube3...
+[2021.09.14-17.10.02:265][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.10.02:268][481]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.10.02:270][481]LogStaticMesh: Building static mesh Jumbotron_pCylinder1...
+[2021.09.14-17.10.02:273][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.10.02:276][481]LogFbx: Display: Triangulating static mesh pCylinder2
+[2021.09.14-17.10.02:279][481]LogStaticMesh: Building static mesh Jumbotron_pCylinder2...
+[2021.09.14-17.10.02:282][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.10.02:287][481]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.09.14-17.10.02:296][481]LogFbx: Display: Triangulating static mesh pCube4
+[2021.09.14-17.10.02:348][481]LogStaticMesh: Building static mesh Jumbotron_pCube4...
+[2021.09.14-17.10.02:349][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.10.02:385][481]LogFbx: Display: Triangulating static mesh pCube5
+[2021.09.14-17.10.02:387][481]LogStaticMesh: Building static mesh Jumbotron_pCube5...
+[2021.09.14-17.10.02:388][481]LogStaticMesh: Built static mesh [0.00s] /Game/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.10.02:416][481]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.10.07:134][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kendrick L\Downloads\Stadium 2.fbx)
+[2021.09.14-17.10.07:143][905]LogFbx: Loading FBX Scene from C:\Users\Kendrick L\Downloads\Stadium 2.fbx
+[2021.09.14-17.10.07:156][905]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.10.07:619][905]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.14-17.10.08:950][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-17.10.08:959][905]LogFbx: Display: Triangulating static mesh pCube3
+[2021.09.14-17.10.08:961][905]LogStaticMesh: Building static mesh Stadium_2_pCube3...
+[2021.09.14-17.10.08:961][905]LogStaticMesh: Built static mesh [0.00s] /Game/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.10.08:965][905]LogFbx: Display: Triangulating static mesh pCube18
+[2021.09.14-17.10.09:036][905]LogStaticMesh: Building static mesh Stadium_2_pCube18...
+[2021.09.14-17.10.09:115][905]LogStaticMesh: Built static mesh [0.08s] /Game/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.10.09:131][905]LogFbx: Display: Triangulating static mesh pCone1
+[2021.09.14-17.10.09:141][905]LogStaticMesh: Building static mesh Stadium_2_pCone1...
+[2021.09.14-17.10.09:144][905]LogStaticMesh: Built static mesh [0.00s] /Game/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.10.09:149][905]LogFbx: Display: Triangulating static mesh pPlane1
+[2021.09.14-17.10.09:166][905]LogStaticMesh: Building static mesh Stadium_2_pPlane1...
+[2021.09.14-17.10.09:169][905]LogStaticMesh: Built static mesh [0.00s] /Game/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.10.09:170][905]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.10.09:172][905]LogStaticMesh: Building static mesh Stadium_2_pCylinder1...
+[2021.09.14-17.10.09:174][905]LogStaticMesh: Built static mesh [0.00s] /Game/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.10.09:195][905]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.10.09:827][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.14-17.10.14:003][359]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kendrick L\Downloads\Stool (1).fbx)
+[2021.09.14-17.10.14:012][359]LogFbx: Loading FBX Scene from C:\Users\Kendrick L\Downloads\Stool (1).fbx
+[2021.09.14-17.10.14:022][359]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-17.10.14:133][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.14-17.10.15:685][359]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-17.10.15:695][359]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.09.14-17.10.15:698][359]LogStaticMesh: Building static mesh Stool__1__pCylinder1...
+[2021.09.14-17.10.15:701][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder1.Stool__1__pCylinder1
+[2021.09.14-17.10.15:704][359]LogFbx: Display: Triangulating static mesh pCylinder2
+[2021.09.14-17.10.15:707][359]LogStaticMesh: Building static mesh Stool__1__pCylinder2...
+[2021.09.14-17.10.15:709][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder2.Stool__1__pCylinder2
+[2021.09.14-17.10.15:713][359]LogFbx: Display: Triangulating static mesh pCylinder3
+[2021.09.14-17.10.15:717][359]LogStaticMesh: Building static mesh Stool__1__pCylinder3...
+[2021.09.14-17.10.15:720][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder3.Stool__1__pCylinder3
+[2021.09.14-17.10.15:728][359]LogFbx: Display: Triangulating static mesh pCylinder4
+[2021.09.14-17.10.15:730][359]LogStaticMesh: Building static mesh Stool__1__pCylinder4...
+[2021.09.14-17.10.15:733][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder4.Stool__1__pCylinder4
+[2021.09.14-17.10.15:736][359]LogFbx: Display: Triangulating static mesh pCylinder5
+[2021.09.14-17.10.15:738][359]LogStaticMesh: Building static mesh Stool__1__pCylinder5...
+[2021.09.14-17.10.15:741][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder5.Stool__1__pCylinder5
+[2021.09.14-17.10.15:744][359]LogFbx: Display: Triangulating static mesh pCylinder6
+[2021.09.14-17.10.15:747][359]LogStaticMesh: Building static mesh Stool__1__pCylinder6...
+[2021.09.14-17.10.15:750][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder6.Stool__1__pCylinder6
+[2021.09.14-17.10.15:752][359]LogFbx: Display: Triangulating static mesh pCylinder7
+[2021.09.14-17.10.15:755][359]LogStaticMesh: Building static mesh Stool__1__pCylinder7...
+[2021.09.14-17.10.15:759][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder7.Stool__1__pCylinder7
+[2021.09.14-17.10.15:762][359]LogFbx: Display: Triangulating static mesh pCylinder8
+[2021.09.14-17.10.15:765][359]LogStaticMesh: Building static mesh Stool__1__pCylinder8...
+[2021.09.14-17.10.15:768][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder8.Stool__1__pCylinder8
+[2021.09.14-17.10.15:771][359]LogFbx: Display: Triangulating static mesh pCylinder9
+[2021.09.14-17.10.15:773][359]LogStaticMesh: Building static mesh Stool__1__pCylinder9...
+[2021.09.14-17.10.15:776][359]LogStaticMesh: Built static mesh [0.00s] /Game/Stool__1__pCylinder9.Stool__1__pCylinder9
+[2021.09.14-17.10.15:829][359]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-17.10.17:571][492]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-17.10.17:574][492]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-17.10.19:202][625]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.09.14-17.10.21:068][728]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.14-17.10.21:125][732]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.09.14-17.10.23:998][946]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.09.14-17.10.25:199][ 43]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.14-17.10.27:418][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder1.Stool__1__pCylinder1' ref from Metadata '/Game/Stool__1__pCylinder1.PackageMetaData'
+[2021.09.14-17.10.27:420][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder2.Stool__1__pCylinder2' ref from Metadata '/Game/Stool__1__pCylinder2.PackageMetaData'
+[2021.09.14-17.10.27:421][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder3.Stool__1__pCylinder3' ref from Metadata '/Game/Stool__1__pCylinder3.PackageMetaData'
+[2021.09.14-17.10.27:422][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder4.Stool__1__pCylinder4' ref from Metadata '/Game/Stool__1__pCylinder4.PackageMetaData'
+[2021.09.14-17.10.27:424][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder5.Stool__1__pCylinder5' ref from Metadata '/Game/Stool__1__pCylinder5.PackageMetaData'
+[2021.09.14-17.10.27:425][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder6.Stool__1__pCylinder6' ref from Metadata '/Game/Stool__1__pCylinder6.PackageMetaData'
+[2021.09.14-17.10.27:426][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder7.Stool__1__pCylinder7' ref from Metadata '/Game/Stool__1__pCylinder7.PackageMetaData'
+[2021.09.14-17.10.27:428][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder8.Stool__1__pCylinder8' ref from Metadata '/Game/Stool__1__pCylinder8.PackageMetaData'
+[2021.09.14-17.10.27:429][304]LogMetaData: Removing '/Game/Assets/Stool__1__pCylinder9.Stool__1__pCylinder9' ref from Metadata '/Game/Stool__1__pCylinder9.PackageMetaData'
+[2021.09.14-17.10.27:473][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder13CCFCB5A4DA784F662991BAC88489989.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder1.uasset'
+[2021.09.14-17.10.27:494][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder29F2BC9F843254C756D5406AA807C104F.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder2.uasset'
+[2021.09.14-17.10.27:514][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder3130A96E64CD49019D9ABE1B13F40DC7F.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder3.uasset'
+[2021.09.14-17.10.27:535][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder47C24771C4B59FEF4A7EFA4A51E305A54.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder4.uasset'
+[2021.09.14-17.10.27:555][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder58FCC62A7440D4A750F60C8B0EC5E999E.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder5.uasset'
+[2021.09.14-17.10.27:576][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder6B8664C0C4497FFBBD4ECAA8B9F207A8B.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder6.uasset'
+[2021.09.14-17.10.27:598][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder7836D3AB94A42FF5107E552AB171AC6CA.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder7.uasset'
+[2021.09.14-17.10.27:618][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder8EDB4E1AF4F9882C1E39378A161116026.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder8.uasset'
+[2021.09.14-17.10.27:638][304]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder943C63D1749C559F2E57C0392F9D491A3.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder9.uasset'
+[2021.09.14-17.10.27:977][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.14-17.10.27:986][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.27:992][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.14-17.10.27:998][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-17.10.28:004][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.14-17.10.28:011][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-17.10.28:017][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-17.10.28:022][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.10.28:028][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.10.28:040][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.14-17.10.28:047][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-17.10.28:074][304]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder3.Stool__1__pCylinder3
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder2.Stool__1__pCylinder2
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder1.Stool__1__pCylinder1
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder9.Stool__1__pCylinder9
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder8.Stool__1__pCylinder8
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder7.Stool__1__pCylinder7
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder6.Stool__1__pCylinder6
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder5.Stool__1__pCylinder5
+[2021.09.14-17.10.28:074][304]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder4.Stool__1__pCylinder4
+[2021.09.14-17.10.41:251][423]LogMetaData: Removing '/Game/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1' ref from Metadata '/Game/Stadium_2_pPlane1.PackageMetaData'
+[2021.09.14-17.10.41:253][423]LogMetaData: Removing '/Game/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1' ref from Metadata '/Game/Stadium_2_pCylinder1.PackageMetaData'
+[2021.09.14-17.10.41:254][423]LogMetaData: Removing '/Game/Assets/Stadium_2_pCube3.Stadium_2_pCube3' ref from Metadata '/Game/Stadium_2_pCube3.PackageMetaData'
+[2021.09.14-17.10.41:255][423]LogMetaData: Removing '/Game/Assets/Stadium_2_pCube18.Stadium_2_pCube18' ref from Metadata '/Game/Stadium_2_pCube18.PackageMetaData'
+[2021.09.14-17.10.41:256][423]LogMetaData: Removing '/Game/Assets/Stadium_2_pCone1.Stadium_2_pCone1' ref from Metadata '/Game/Stadium_2_pCone1.PackageMetaData'
+[2021.09.14-17.10.41:307][423]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pPlane13F71E71B46A09A6227279ABDD34A239F.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pPlane1.uasset'
+[2021.09.14-17.10.41:328][423]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCylinder1FE596E2C4BD07E07E13D819A0A144CF0.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCylinder1.uasset'
+[2021.09.14-17.10.41:341][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stadium_2_pCube3" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube3.uasset" SILENT=true
+[2021.09.14-17.10.41:348][423]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube345A24223489FB8ACBB3F4BBD7EC3E4A0.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube3.uasset'
+[2021.09.14-17.10.41:386][423]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube185BD654C744331E60A412D78DA65D3B48.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube18.uasset'
+[2021.09.14-17.10.41:399][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stadium_2_pCone1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCone1.uasset" SILENT=true
+[2021.09.14-17.10.41:407][423]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCone17AD80FF242B3C7250849788C407257D4.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCone1.uasset'
+[2021.09.14-17.10.41:626][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.14-17.10.41:635][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.41:641][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.41:648][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-17.10.41:654][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.41:668][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.14-17.10.41:674][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.10.41:705][423]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.10.41:705][423]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.10.41:705][423]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.10.41:705][423]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.10.41:705][423]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.10.41:705][423]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.10.51:185][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2' ref from Metadata '/Game/Jumbotron_pCylinder2.PackageMetaData'
+[2021.09.14-17.10.51:186][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1' ref from Metadata '/Game/Jumbotron_pCylinder1.PackageMetaData'
+[2021.09.14-17.10.51:187][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCube5.Jumbotron_pCube5' ref from Metadata '/Game/Jumbotron_pCube5.PackageMetaData'
+[2021.09.14-17.10.51:188][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCube4.Jumbotron_pCube4' ref from Metadata '/Game/Jumbotron_pCube4.PackageMetaData'
+[2021.09.14-17.10.51:189][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCube3.Jumbotron_pCube3' ref from Metadata '/Game/Jumbotron_pCube3.PackageMetaData'
+[2021.09.14-17.10.51:190][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCube2.Jumbotron_pCube2' ref from Metadata '/Game/Jumbotron_pCube2.PackageMetaData'
+[2021.09.14-17.10.51:191][186]LogMetaData: Removing '/Game/Assets/Jumbotron_pCube1.Jumbotron_pCube1' ref from Metadata '/Game/Jumbotron_pCube1.PackageMetaData'
+[2021.09.14-17.10.51:240][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder2C51F21BC4539A7DE83B59F900B842E4C.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCylinder2.uasset'
+[2021.09.14-17.10.51:261][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder1501B3B1E43317217E657DA9F5077D50D.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCylinder1.uasset'
+[2021.09.14-17.10.51:274][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube5" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube5.uasset" SILENT=true
+[2021.09.14-17.10.51:281][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube548349A8A4DF565969858C781A79CC75F.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube5.uasset'
+[2021.09.14-17.10.51:294][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube4" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube4.uasset" SILENT=true
+[2021.09.14-17.10.51:301][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube44D3F0F0B4E9338CCCB3D0991A0291F5B.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube4.uasset'
+[2021.09.14-17.10.51:313][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube3" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube3.uasset" SILENT=true
+[2021.09.14-17.10.51:320][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube3AE88C59E4C58FC77A97060AB8C8064F8.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube3.uasset'
+[2021.09.14-17.10.51:333][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube2" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube2.uasset" SILENT=true
+[2021.09.14-17.10.51:341][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube277A720294DAC15F6CD9557915F9A86CD.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube2.uasset'
+[2021.09.14-17.10.51:354][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube1.uasset" SILENT=true
+[2021.09.14-17.10.51:361][186]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube1D695524E482FE00B210F0096ECBD965E.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube1.uasset'
+[2021.09.14-17.10.51:644][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.14-17.10.51:652][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-17.10.51:658][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-17.10.51:664][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.51:671][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.51:677][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.10.51:683][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.10.51:697][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.14-17.10.51:703][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-17.10.51:733][186]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.10.51:733][186]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.11.01:885][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lambert2" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/lambert2.uasset" SILENT=true
+[2021.09.14-17.11.01:891][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/lambert2431328E044010D917E3EBDB4E6741AA9.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/lambert2.uasset'
+[2021.09.14-17.11.01:904][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lambert1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/lambert1.uasset" SILENT=true
+[2021.09.14-17.11.01:911][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/lambert12F2230974DF5F755B9D0F48E2F62D6B2.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/lambert1.uasset'
+[2021.09.14-17.11.01:923][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/blinn1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/blinn1.uasset" SILENT=true
+[2021.09.14-17.11.01:929][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/blinn1CFF9541243DD3A356B7EBE87B925741E.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/blinn1.uasset'
+[2021.09.14-17.11.01:941][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/blinn2" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/blinn2.uasset" SILENT=true
+[2021.09.14-17.11.01:948][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/blinn21BDC757649E0811D49CD56BA779F2F7D.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Materials/blinn2.uasset'
+[2021.09.14-17.11.02:128][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.14-17.11.02:137][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-17.11.02:143][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.14-17.11.02:149][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.09.14-17.11.02:164][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.09.14-17.11.02:170][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-17.11.02:187][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube4" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube4.uasset" SILENT=true
+[2021.09.14-17.11.02:190][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube4832E9C794210A61B91E6C49F06D4BA43.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube4.uasset'
+[2021.09.14-17.11.02:191][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube5" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube5.uasset" SILENT=true
+[2021.09.14-17.11.02:194][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube51D684A674871B7B93C584A895E024210.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube5.uasset'
+[2021.09.14-17.11.02:202][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube1811E4B90E424C7EBFBDC8E1BD7843F4E3.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube18.uasset'
+[2021.09.14-17.11.02:207][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder7BA1A0BC04AA6B0625D8280886E96ECF0.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder7.uasset'
+[2021.09.14-17.11.02:211][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder90982671D44B6430B376E15AF6D7EDC1B.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder9.uasset'
+[2021.09.14-17.11.02:215][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder602717366427C63AC95C8E1A6ED80F616.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder6.uasset'
+[2021.09.14-17.11.02:220][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder3BA73C548465349EFC175E48386341280.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder3.uasset'
+[2021.09.14-17.11.02:224][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder54D825DAC4202D61278A9428869AFB122.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder5.uasset'
+[2021.09.14-17.11.02:228][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder82DC180FE4CCFB70D0B97729027C03442.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder8.uasset'
+[2021.09.14-17.11.02:232][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder1A56FFBFF4D61ADE031A2B79188A6075C.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder1.uasset'
+[2021.09.14-17.11.02:236][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder43D4556464755AE2A9CA2AE9B493E7AFE.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder4.uasset'
+[2021.09.14-17.11.02:240][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stool__1__pCylinder2A018BF6346A93DAB2D0BCABC58F28265.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stool__1__pCylinder2.uasset'
+[2021.09.14-17.11.02:241][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube1.uasset" SILENT=true
+[2021.09.14-17.11.02:244][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube1B99359874287EEC6A4D3ECBF6BF77134.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube1.uasset'
+[2021.09.14-17.11.02:245][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube2" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube2.uasset" SILENT=true
+[2021.09.14-17.11.02:248][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube2C35D65BA4C8F48D74F86EAA1E507B813.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube2.uasset'
+[2021.09.14-17.11.02:252][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder22E9DDD714F8E2BA2CB7D2682E875FEB1.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCylinder2.uasset'
+[2021.09.14-17.11.02:256][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCylinder1926B4C7C48DA871236C75ABA0EE491FB.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCylinder1.uasset'
+[2021.09.14-17.11.02:257][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stadium_2_pCone1" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCone1.uasset" SILENT=true
+[2021.09.14-17.11.02:261][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCone1C863AD7144A6167D84BDA9A268503770.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCone1.uasset'
+[2021.09.14-17.11.02:265][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCylinder1FF9BF7C443B69F83AAECF8B5A75B7ADB.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCylinder1.uasset'
+[2021.09.14-17.11.02:270][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pPlane15A176D9E4A4E5FE8FB464583C25BB392.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pPlane1.uasset'
+[2021.09.14-17.11.02:271][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stadium_2_pCube3" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube3.uasset" SILENT=true
+[2021.09.14-17.11.02:274][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Stadium_2_pCube353B8C00F4217B64EF70D6D822BFBFE92.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Stadium_2_pCube3.uasset'
+[2021.09.14-17.11.02:275][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jumbotron_pCube3" FILE="../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube3.uasset" SILENT=true
+[2021.09.14-17.11.02:278][169]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Jumbotron_pCube32AD45F334E6C65C5D0870DACF0076802.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/Jumbotron_pCube3.uasset'
+[2021.09.14-17.11.02:316][169]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder3.Stool__1__pCylinder3
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating Material /Game/Materials/blinn2.blinn2
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube3.Jumbotron_pCube3
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube2.Jumbotron_pCube2
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating Material /Game/Materials/blinn1.blinn1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating Material /Game/Materials/lambert1.lambert1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube1.Jumbotron_pCube1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCylinder1.Stadium_2_pCylinder1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pPlane1.Stadium_2_pPlane1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCone1.Stadium_2_pCone1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCube18.Stadium_2_pCube18
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stadium_2_pCube3.Stadium_2_pCube3
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder2.Stool__1__pCylinder2
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube5.Jumbotron_pCube5
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating Material /Game/Materials/lambert2.lambert2
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCube4.Jumbotron_pCube4
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCylinder2.Jumbotron_pCylinder2
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Jumbotron_pCylinder1.Jumbotron_pCylinder1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder1.Stool__1__pCylinder1
+[2021.09.14-17.11.02:316][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder9.Stool__1__pCylinder9
+[2021.09.14-17.11.02:317][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder8.Stool__1__pCylinder8
+[2021.09.14-17.11.02:317][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder7.Stool__1__pCylinder7
+[2021.09.14-17.11.02:317][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder6.Stool__1__pCylinder6
+[2021.09.14-17.11.02:317][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder5.Stool__1__pCylinder5
+[2021.09.14-17.11.02:317][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Stool__1__pCylinder4.Stool__1__pCylinder4
+[2021.09.14-17.11.03:823][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.11.11:158][ 44]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/SM_MERGED_Jumbotron_pCylinder2_538C97CFC4F0B4DBB9425BF8789B712E2.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/Assets/SM_MERGED_Jumbotron_pCylinder2_54.uasset'
+[2021.09.14-17.11.11:259][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.14-17.11.11:289][ 44]AssetCheck: New page: Asset Save: SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.11.11:289][ 44]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_MERGED_Jumbotron_pCylinder2_54.SM_MERGED_Jumbotron_pCylinder2_54
+[2021.09.14-17.11.27:074][194]LogActorFactory: Actor Factory created Stadium_2_pPlane1
+[2021.09.14-17.11.27:075][194]LogActorFactory: Actor Factory created Stadium_2_pCone1
+[2021.09.14-17.11.27:075][194]LogActorFactory: Actor Factory created Stadium_2_pCube18
+[2021.09.14-17.11.27:076][194]LogActorFactory: Actor Factory created Stadium_2_pCube3
+[2021.09.14-17.11.27:076][194]LogActorFactory: Actor Factory created Stadium_2_pCylinder1
+[2021.09.14-17.11.27:640][250]LogActorFactory: Actor Factory created Stadium_2_pPlane1
+[2021.09.14-17.11.27:660][250]LogActorFactory: Actor Factory created Stadium_2_pCone1
+[2021.09.14-17.11.27:675][250]LogActorFactory: Actor Factory created Stadium_2_pCube18
+[2021.09.14-17.11.27:690][250]LogActorFactory: Actor Factory created Stadium_2_pCube3
+[2021.09.14-17.11.27:705][250]LogActorFactory: Actor Factory created Stadium_2_pCylinder1
+[2021.09.14-17.12.07:668][673]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.09.14-17.12.07:728][673]LogStaticMesh: Building static mesh SM_MERGED_Stadium_2_pCylinder1_72...
+[2021.09.14-17.12.07:916][673]LogStaticMesh: Built static mesh [0.19s] /Game/Assets/SM_MERGED_Stadium_2_pCylinder1_72.SM_MERGED_Stadium_2_pCylinder1_72
+[2021.09.14-17.12.13:729][ 73]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.09.14-17.12.14:898][185]LogSlate: Window 'Merge Actors' being destroyed
+[2021.09.14-17.12.14:904][185]LogSlate: Window 'Merge Actors' being destroyed
+[2021.09.14-17.12.17:450][351]LogActorFactory: Actor Factory created SM_MERGED_Stadium_2_pCylinder1_72
+[2021.09.14-17.12.18:439][452]LogActorFactory: Actor Factory created SM_MERGED_Stadium_2_pCylinder1_72
+[2021.09.14-17.12.21:032][757]Cmd: TRANSACTION UNDO
+[2021.09.14-17.12.21:032][757]LogEditorTransaction: Undo Create Actors
+[2021.09.14-17.12.21:557][773]Cmd: TRANSACTION UNDO
+[2021.09.14-17.12.21:557][773]LogEditorTransaction: Undo Create Actors
+[2021.09.14-17.12.23:290][916]LogActorFactory: Actor Factory created SM_MERGED_Stadium_2_pCylinder1_72
+[2021.09.14-17.12.23:795][968]LogActorFactory: Actor Factory created SM_MERGED_Stadium_2_pCylinder1_72
+[2021.09.14-17.13.00:047][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.13.21:686][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.14-17.13.32:306][777]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.13.36:792][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Jumbotron_pCylinder2_54)
+[2021.09.14-17.13.48:478][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.13.54:395][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.13.54:939][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.13.55:574][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Stadium_2_pCylinder1_72)
+[2021.09.14-17.13.56:016][574]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.09.14-17.13.56:920][678]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.09.14-17.14.03:910][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.14.07:329][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-17.14.41:209][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.14-17.14.41:223][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.024
+[2021.09.14-17.14.41:225][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_MERGED_Stadium_2_pCylinder1_72] ([1] browsable assets)...
+[2021.09.14-17.14.41:237][906]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_MERGED_Stadium_2_pCylinder1_72.SM_MERGED_Stadium_2_pCylinder1_72]
+[2021.09.14-17.14.41:237][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_MERGED_Stadium_2_pCylinder1_72]
+[2021.09.14-17.14.41:257][906]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/SM_MERGED_Stadium_2_pCylinder1_7E21604DB410421C01AED5385DBE72E62.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/Autosaves/Game/Assets/SM_MERGED_Stadium_2_pCylinder1_72_Auto1.uasset'
+[2021.09.14-17.14.41:258][906]LogFileHelpers: Auto-saving content packages took 0.034
