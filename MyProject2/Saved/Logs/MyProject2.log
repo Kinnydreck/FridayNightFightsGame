@@ -812,3 +812,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-16.36.55:530][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
 [2021.09.15-16.36.55:530][994]LogFileHelpers: Loading map 'FridayNightFightsGame' took 0.233
 [2021.09.15-16.36.55:530][994]LogSlate: Window 'Open Level' being destroyed
+[2021.09.15-16.37.34:776][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.15-16.37.34:798][  2]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/FridayNightFightsGameE3A0E0274A3FFC384935E7AA015F483D.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/FridayNightFightsGame.umap'
+[2021.09.15-16.37.34:832][  2]LogSavePackage: Moving '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Saved/FridayNightFightsGame_BuiltData79A59FE84505EAC58F50A086DA535D08.tmp' to '../../../../../../Users/Kendrick L/Documents/GitHub/FridayNightFightsGame/MyProject2/Content/FridayNightFightsGame_BuiltData.uasset'
+[2021.09.15-16.37.34:855][  2]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-16.37.34:855][  2]LogContentValidation: Display: Validating World /Game/FridayNightFightsGame.FridayNightFightsGame
+[2021.09.15-16.37.34:856][  2]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FridayNightFightsGame_BuiltData.FridayNightFightsGame_BuiltData
